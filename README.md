@@ -1,4 +1,4 @@
-# Mantenimiento Laptop Acer Aspire
+# Mantenimiento de pc de escritorio
 
 En este breve manual se realizará un mantenimiento completo a una computadora de escritorio.
 
